@@ -1,5 +1,5 @@
 {
-  "name": HA "NGINX Raw Proxy",
+  "name": "HA NGINX Raw Proxy",
   "version": "1.0.0",
   "slug": "ha_nginx_raw_proxy",
   "description": "A fully configurable Nginx proxy",
