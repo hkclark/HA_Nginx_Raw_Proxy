@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Home Assistant NGINX Raw proxy
+# Home Assistant Add-on: Home Assistant NGINX Raw Proxy
 
 Sets up a fully configurable NGINX proxy.
 
