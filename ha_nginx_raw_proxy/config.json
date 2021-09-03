@@ -1,7 +1,7 @@
 {
   "name": HA "NGINX Raw Proxy",
   "version": "1.0.0",
-  "slug": "nginx_raw_proxy",
+  "slug": "ha_nginx_raw_proxy",
   "description": "A fully configurable Nginx proxy",
   "url": https://github.com/hkclark/HA_Nginx_Raw_Proxy,
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
