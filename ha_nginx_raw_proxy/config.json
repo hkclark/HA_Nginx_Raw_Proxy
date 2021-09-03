@@ -1,5 +1,5 @@
 {
-  "name": "HA NGINX Raw Proxy",
+  "name": "Home Assistant NGINX Raw Proxy",
   "version": "1.0.0",
   "slug": "ha_nginx_raw_proxy",
   "description": "A fully configurable Nginx proxy",
@@ -9,7 +9,7 @@
     "80/tcp": null,
     "443/tcp": 443
   },
-  "map": ["ssl", "share"],
+  "map": ["ssl", "share", "config"],
   "options": {
     "domain": null,
     "certfile": "fullchain.pem",
@@ -21,6 +21,5 @@
     "certfile": "str",
     "keyfile": "str",
     "configfile": "str"
-  },
-  "image": "homeassistant/{arch}-addon-nginx_raw_proxy"
+  }
 }
